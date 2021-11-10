@@ -1,0 +1,22 @@
+{
+  "name": "firstcontract",
+  "version": "1.0.0",
+  "description": "Prueba de blockchain con truffle y ganache",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yisusturtle/Pruebas-Blockchain.git"
+  },
+  "author": "yisusturtle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yisusturtle/Pruebas-Blockchain/issues"
+  },
+  "homepage": "https://github.com/yisusturtle/Pruebas-Blockchain#readme"
+}
